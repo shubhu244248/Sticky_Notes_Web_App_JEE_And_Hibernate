@@ -22,7 +22,7 @@
 			<img alt="" class="img-fluid mx-auto" style="max-width: 300px;"
 				src="img/notepad.png">
 			<h1 class="text-primary text-uppercase text-center mt-3">Start
-				writing your notes</h1>
+				writing your Notes</h1>
 			<div class="container text-center">
 				<a href="add_notes.jsp" class="btn btn-outline-primary text-center">Start
 					Here</a>
